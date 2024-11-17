@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://checkthese.com/img/IMG_0160.PNG?3" alt="Capricorne888" width="200" height="200">
+</p>
+
 ## Light/Dark Mode Toggle Script
 
 This script enables a light/dark mode toggle on your website, allowing users to switch between themes seamlessly. The user's preference is saved in `localStorage` to persist across sessions.
